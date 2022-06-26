@@ -1,16 +1,24 @@
-- Hi, I’m Jake Gallagher
+# Hi, I’m Jake Gallagher
 
 
-- I’m interested in learning both front-end and back-end technologies but primarily focusing on front-end at the moment. 
-
-- having completed most of the relevant courses on FreeCodeCamp and other tutorials I have now moved onto solidifying my learning by making my own projects which you can check out here on github.
-
-- URLs for a few of the projects here:
-    - https://jake-agallagher.github.io/React-Calculator/
-    - https://jake-agallagher.github.io/Kanye-West-Quote-Machine/
-    - https://jake-agallagher.github.io/React-Slot-Machine/
+#### I’m interested in both front-end and back-end technologies but I have spent most of the last year heavily focusing on front-end. I am currently looking for a Junior front-end web developer position. Once I secure a job I am then going to focus on becoming a full stack developer. 
 
 
-- the best way to reach me is through email at jake.a.gallagher98@gmail.com
+
+### Links to live pages for my projects here:
+1. [Twitter-Clone](https://twitter-clone-nu-woad.vercel.app/)
+1. [Local-Business-Webpage](https://jake-agallagher.github.io/Local-Business-Webpage/)
+1. [React-Calculator](https://jake-agallagher.github.io/React-Calculator/)
+1. [Kanye-West-Quote-Machine](https://jake-agallagher.github.io/Kanye-West-Quote-Machine/)
+1. [React-Slot-Machine](https://jake-agallagher.github.io/React-Slot-Machine/)
+
+### currrent Goal:
+* Secure a Junior Front-end Developer Job.
+
+### future Goals:
+1. Learn Node.js, Express and MongoDB to become a Full-Stack Developer.
+1. Complete the Amazon Web Services Certified Developer Certification.
+1. Complete an intro course to ethical hacking to increase my knowledge of web security. 
 
 
+### the best way to reach me is through email at jake.a.gallagher98@gmail.com
