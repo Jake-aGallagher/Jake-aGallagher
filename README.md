@@ -12,13 +12,13 @@
 1. [Kanye-West-Quote-Machine](https://jake-agallagher.github.io/Kanye-West-Quote-Machine/)
 1. [React-Slot-Machine](https://jake-agallagher.github.io/React-Slot-Machine/)
 
-### currrent Goal:
+### Currrent Goal:
 * Secure a Junior Front-end Developer Job.
 
-### future Goals:
+### Future Goals:
 1. Learn Node.js, Express and MongoDB to become a Full-Stack Developer.
 1. Complete the Amazon Web Services Certified Developer Certification.
 1. Complete an intro course to ethical hacking to increase my knowledge of web security. 
 
 
-### the best way to reach me is through email at jake.a.gallagher98@gmail.com
+### The best way to reach me is through email at jake.a.gallagher98@gmail.com
