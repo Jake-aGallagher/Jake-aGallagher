@@ -1,6 +1,6 @@
 # Hi, I’m Jake Gallagher
 
-### Check out my personal website [jakegallagher.dev](https://jakegallagher.dev){:target="_blank"}
+### Check out my personal website [jakegallagher.dev](https://jakegallagher.dev)
 
 
 #### I’m interested in both front-end and back-end technologies but I have spent most of the last year heavily focusing on front-end. I am currently looking for a Junior front-end web developer position. Once I secure a job I am then going to focus on becoming a full stack developer. 
