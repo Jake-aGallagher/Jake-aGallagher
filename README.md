@@ -1,7 +1,7 @@
 # Hi, I’m Jake Gallagher
 
 
-#### I'm a full stack web developer specialising in JavaScript and PHP
+#### I'm a full stack web developer specialising in React and NodeJS
 #### My current personal project is a full stack SAAS Maintenance Management System  
 
 
